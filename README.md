@@ -1,4 +1,4 @@
-# Simple Templating Engine
+# Templating Engine
 
 ## Overview
 This project, `assign5.py`, is a Python script that functions as a simple templating engine. It takes a generic template with placeholders, a set of input data files, and a date to produce instantiated templates. This script emphasizes the use of Python's string manipulation capabilities and file handling to automate the generation of content based on template structures.
